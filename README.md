@@ -39,24 +39,6 @@ This project aims to:
 - **Techniques:** EDA, hypothesis testing (ANOVA), data visualization
 
 ---
-### Project Structure
-
-Sales-Performance-Analysis/
-│
-├── dataset/ # Contains raw and cleaned CSV datasets
-│ └── clean_data.csv
-│ └── sales_data_sample.csv
-│ └── sales.db		
-│
-├── notebooks/ # Jupyter notebooks for preprocessing, EDA, and analysis
-│ └── data_preprocessing.ipynb
-│ └── sales_data_eda.ipynb
-│
-├── scripts/ # SQL and Python scripts for data ingestion and DB creation
-│ └── ingestion_db.py
-│
-│
-└── README.md # Project documentation
 
 ### Upcoming Updates
 - **Relational Database:** Building a SQL database schema for better data modeling and query optimization.  
